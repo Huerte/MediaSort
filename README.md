@@ -15,7 +15,7 @@ MediaSort is a CLI-based tool designed to organize your files into categorized f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MediaSort.git
+   git clone https://github.com/Huerte/MediaSort.git
    cd MediaSort
    ```
 
