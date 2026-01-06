@@ -1,0 +1,4 @@
+yaspin
+
+# Note: The application also uses 'tkinter' which is part of the Python Standard Library,
+# but often packaged separately on Linux distributions (e.g., python3-tk).

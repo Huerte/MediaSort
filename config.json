@@ -1,0 +1,112 @@
+{
+    "folders": {
+        "Music": [
+            ".mp3",
+            ".wav",
+            ".flac",
+            ".aac",
+            ".ogg",
+            ".m4a",
+            ".wma"
+        ],
+        "Videos": [
+            ".mp4",
+            ".mkv",
+            ".avi",
+            ".mov",
+            ".wmv",
+            ".flv",
+            ".webm",
+            ".m4v"
+        ],
+        "Pictures": [
+            ".jpg",
+            ".jpeg",
+            ".png",
+            ".gif",
+            ".bmp",
+            ".webp",
+            ".tiff",
+            ".svg",
+            ".heic"
+        ],
+        "Documents": [
+            ".pdf",
+            ".doc",
+            ".docx",
+            ".txt",
+            ".rtf",
+            ".odt",
+            ".md"
+        ],
+        "Spreadsheets": [
+            ".xls",
+            ".xlsx",
+            ".csv",
+            ".ods",
+            ".json",
+            ".xml"
+        ],
+        "Presentations": [
+            ".ppt",
+            ".pptx",
+            ".odp"
+        ],
+        "Archives": [
+            ".zip",
+            ".rar",
+            ".7z",
+            ".tar",
+            ".gz",
+            ".bz2",
+            ".xz"
+        ],
+        "Installers": [
+            ".exe",
+            ".msi",
+            ".apk",
+            ".dmg",
+            ".pkg",
+            ".appimage"
+        ],
+        "Code": [
+            ".py",
+            ".js",
+            ".html",
+            ".css",
+            ".java",
+            ".c",
+            ".cpp",
+            ".cs",
+            ".php",
+            ".go",
+            ".rs",
+            ".sh",
+            ".ps1"
+        ],
+        "Fonts": [
+            ".ttf",
+            ".otf",
+            ".woff",
+            ".woff2"
+        ],
+        "DiskImages": [
+            ".iso",
+            ".img",
+            ".vhd",
+            ".vmdk"
+        ],
+        "Temp": [
+            ".log",
+            ".tmp",
+            ".part",
+            ".cache",
+            ".bak"
+        ]
+    },
+    "deep_search": true,
+    "extension_folders": true,
+    "preserved_files": false,
+    "delete_empty_dir": false,
+    "within_target_dir": false
+}
