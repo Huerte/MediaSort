@@ -4,9 +4,9 @@ import string
 import json
 from time import time
 
-TOTAL_FILES = 5               
-TOTAL_FOLDERS = 3
-MAX_NEST_DEPTH = 2
+TOTAL_FILES = 30               
+TOTAL_FOLDERS = 10
+MAX_NEST_DEPTH = 5
 RANDOM_SEED = int(time())
 random.seed(RANDOM_SEED)
 

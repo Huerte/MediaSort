@@ -104,9 +104,9 @@
             ".bak"
         ]
     },
-    "deep_search": false,
+    "deep_search": true,
     "extension_folders": true,
-    "preserved_files": true,
-    "delete_empty_dir": false,
+    "preserved_files": false,
+    "delete_empty_dir": true,
     "within_target_dir": false
 }

@@ -224,7 +224,10 @@ def load_json_file(file_path):
 
     return data
 
-
+"""
+TODO: Fix the issue when undoing the operation where it cant find the folder specified for the specific file location
+SOLUTION - Create those folder first before putting the file to avoid folder location issues
+"""
 def undo_changes():
     try:
         undo_log = load_json_file(APP_DIR.joinpath(Path('undo.json')))
